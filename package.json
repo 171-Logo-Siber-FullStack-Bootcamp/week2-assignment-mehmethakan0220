@@ -1,0 +1,28 @@
+{
+  "name": "week2-assignment-mehmethakan0220",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7001246&assignment_repo_type=AssignmentRepo) # week2-assignment Derste yapılan yapı tekrar kurgulanacak.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mehmethakan0220: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@github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-mehmethakan0220.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-mehmethakan0220/issues"
+  },
+  "homepage": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-mehmethakan0220#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg-promise": "^10.11.1"
+  }
+}
